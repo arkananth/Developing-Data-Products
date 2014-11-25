@@ -12,6 +12,6 @@ server.R
 
 The application is accesible in: https://arkananth.shinyapps.io/BMI-ark/
 
-After a presentation of the application is disigned using slidify. The presentation could be visualized in:
+After a presentation of the application is disigned using slidify. The presentation could not be published in Rpubs due to some issue.Index.htmlis loaded in github
 
 
